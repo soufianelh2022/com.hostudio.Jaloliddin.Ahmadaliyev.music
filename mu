@@ -1,6 +1,6 @@
 {
   "ads": {
-    "adNetwork": "applovin",
+    "adNetwork": "yandex",
     "applovinopen":"4d58fddcaa6db5c1",
     "yandex_banner": "demo-banner-yandex",
     "yandex_native": "demo-native-app-yandex",
