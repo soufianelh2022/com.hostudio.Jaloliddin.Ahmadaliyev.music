@@ -100,31 +100,31 @@
       "items": [
         {
           "size": "3.5 MB",
-          "image": "https://picsum.photos/300/200?random=10",
-          "title": "Music Player",
+          "image": "https://i.ytimg.com/vi/Sxie8ssYB2g/maxresdefault.jpg",
+          "title": " Fun & Meme Mods",
           "lastUpdated": "2024-03-25",
           "isrecommended": true,
           "type": "normal"
         },
         {
           "size": "5.2 MB",
-          "image": "https://picsum.photos/300/200?random=11",
-          "title": "Video Editor",
+          "image": "https://www.digiseller.ru/preview/467960/p1_2202640_8ea7dbeb.jpg",
+          "title": "Talking Ben SWEP",
           "lastUpdated": "2024-03-19",
           "isrecommended": false,
           "type": "normal"
         },
         {
           "size": "2.1 MB",
-          "image": "https://picsum.photos/300/200?random=12",
-          "title": "Photo Gallery",
+          "image": "https://i.ytimg.com/vi/y7302AQ835k/maxresdefault.jpg",
+          "title": "DrGBase Nextbots e.g. Obunga, Shrek",
           "lastUpdated": "2024-03-21",
           "isrecommended": true,
           "type": "normal"
         }
       ],
-      "categoryImage": "https://picsum.photos/300/200?random=9",
-      "categoryTitle": "Entertainment"
+      "categoryImage": "https://i.ytimg.com/vi/iM9PH__nC6A/mqdefault.jpg",
+      "categoryTitle": "Shaggy Ultra Instinct NPC"
     }
   ],
   "featuredApp": {
@@ -161,7 +161,7 @@
     "delete_btn": "DELETE",
     "empty_list": "The list is empty",
     "ad_coin_sub": "Watch an ad to get 1 coin",
-    "delete_skin": "Delete skin",
+    "delete_skin": "Delete mod",
     "drawer_rate": "Rate Us",
     "install_btn": "Install",
     "ready_title": "Are you ready?",
@@ -177,18 +177,18 @@
     "send_feedback": "Send us a feedback",
     "settings_text": "Settings",
     "watch_ad_text": "Watch ad",
-    "welcome_title": "Welcome to Skin Tool ML",
+    "welcome_title": "Welcome to Mod For Garrys' Mod",
     "chooseLanguage": "Choose language",
     "daily_congrats": "Congratulations!",
     "downloads_left": "download left",
     "drawer_account": "Account: Basic",
     "drawer_privacy": "Privacy Policy",
     "favorites_text": "Favorites",
-    "pack_skin_list": "Pack Skin List",
-    "save_to_ml_btn": "SAVE TO ML",
-    "save_to_ml_msg": "Use the SAVE TO ML button to start the installation process. Please skip this step if you have already installed it",
+    "pack_skin_list": "Pack Mod  List",
+    "save_to_ml_btn": "SAVE TO Garrys' Mod",
+    "save_to_ml_msg": "Use the SAVE TO Garrys' Mod  button to start the installation process. Please skip this step if you have already installed it",
     "categories_text": "Categories",
-    "delete_skin_sub": "Are you sure you want to delete this skin?",
+    "delete_skin_sub": "Are you sure you want to delete this Mod?",
     "dont_show_again": "Don't show this app again",
     "downloaded_text": "Downloaded",
     "drawer_language": "Language: English",
@@ -209,10 +209,10 @@
     "success_download_sub": "We are working hard for better user experience, if you love us, please rate 5 stars",
     "download_success_title": "Download successful",
     "get_more_downloads_sub": "Watch an ad to get 1 more download",
-    "installation_error_msg": "ML is not installed on your device.",
-    "installation_error_sub": "ML is not installed on your device.",
+    "installation_error_msg": "Garrys' Mod is not installed on your device.",
+    "installation_error_sub": "Garrys' Mod is not installed on your device.",
     "installation_error_title": "Installation error",
-    "installation_success_sub": "The Skin was installed successfully"
+    "installation_success_sub": "The Mod was installed successfully"
   },
   "youtubeVideos": [
     {
