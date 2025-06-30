@@ -1,38 +1,38 @@
 {
   "ads": {
     "adNetwork": "applovin",
-    "applovinopen":"9f9e60545e946f33",
+    "applovinopen":"4d58fddcaa6db5c1",
     "yandex_banner": "demo-banner-yandex",
     "yandex_native": "demo-native-app-yandex",
-    "applovin_banner": "ff12bd8a55ff06bf",
-    "applovin_native": "3ad3bbd1e3c1e075",
+    "applovin_banner": "2c9ca5599a81bea4",
+    "applovin_native": "f1659898c3c39960",
     "yandex_rewarded": "demo-rewarded-yandex",
-    "applovin_rewarded": "7ac3f6ee667a6264",
+    "applovin_rewarded": "2fb36b0f2923dc54",
     "yandex_interstitial": "demo-interstitial-yandex",
-    "applovin_interstitial": "98f6a586ed642919"
+    "applovin_interstitial": "0229ecebd546c40d"
   },
-  "flag": "https://flagsapi.com/US/flat/64.png",
+  "flag": "https://cont.ws/uploads/pic/2019/12/kisspng-flag-of-england-flag-of-the-united.png",
   "language": "English",
   "moreApps": [
     {
-      "image": "https://picsum.photos/300/200?random=23",
-      "title": "Weather Pro",
-      "appLink": "https://play.google.com/store/apps/weather"
+      "image": "https://play-lh.googleusercontent.com/Nc1GlqOyKQ3H9drEleDNxEvsnNQ2Ao73D3RXe2e6kSysBLEEFJsZ83LptdolCvTt8A=s48-rw",
+      "title": "Top Eleven Manager de Football",
+      "appLink": "https://play.google.com/store/apps/details?id=eu.nordeus.topeleven.android&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
     },
     {
-      "image": "https://picsum.photos/300/200?random=24",
-      "title": "Fitness Tracker",
-      "appLink": "https://play.google.com/store/apps/fitness"
+      "image": "https://play-lh.googleusercontent.com/9KAPlokfzeEFb34Mwm7juoiC5-yjpf4JlRLguuAgn5fV7JcTECwJnu6guLxbaZBWDA=s48-rw",
+      "title": "Township",
+      "appLink": "https://play.google.com/store/apps/details?id=com.playrix.township&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
     },
     {
-      "image": "https://picsum.photos/300/200?random=25",
-      "title": "Recipe Book",
-      "appLink": "https://play.google.com/store/apps/recipe"
+      "image": "https://play-lh.googleusercontent.com/yivsqYGJe6zkO6OuWA9O6JBnaJgL1JDyHGU8tK9FCksHoyEj1wlUZLF5iso_NFXmH7ca=s48-rw",
+      "title": "Cubes Empire Champions",
+      "appLink": "https://play.google.com/store/apps/details?id=com.champion.cubes&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
     },
     {
-      "image": "https://picsum.photos/300/200?random=26",
-      "title": "Language Learning",
-      "appLink": "https://play.google.com/store/apps/language"
+      "image": "https://play-lh.googleusercontent.com/dYJPQPHQJUW-cpfwxJA8DpDKDb9waWt8cdxegiFgYNQiRdAf7L1Wg6X-FUuBOMwQBA=s48-rw",
+      "title": "Domination d'Empire",
+      "appLink": "https://play.google.com/store/apps/details?id=skydragon.ylempire&pcampaignid=merch_published_cluster_promotion_battlestar_browse_all_games"
     }
   ],
   "categories": [
